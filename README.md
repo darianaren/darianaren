@@ -52,6 +52,6 @@ My main objective is to get a job where I can strengthen and improve the knowled
 
 [Linkedin](https://www.linkedin.com/in/dariana-rengifo/)
 
-Correo: darianarengifo@gmail.com
+E-mail: darianarengifo@gmail.com
 
-Teléfono: +54 351 773-9445
+Phone: +54 351 773-9445
