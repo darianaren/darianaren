@@ -1,50 +1,50 @@
 # Hello! I'm _Dariana Rengifo_.
 ### Full Stack Developer
 
-My path in the world of programming began in October 2022 and since then I have been fascinated with it. I am currently reinforcing my programming skills through personal projects. At the same time, I am actively looking for a job.
+I'm a Full Stack Developer with over two years of experience in designing and developing scalable and efficient web applications. My journey in programming began in October 2022, and since then, I've been captivated by the endless possibilities it offers. I am passionate about creating intuitive and functional user interfaces, optimizing code for better performance, and contributing to innovative solutions that drive business growth. I am currently seeking new opportunities to apply my skills and continue my professional development.
 
-### Knowledge
-![JavaScript](https://img.shields.io/badge/-JavaScript-8DD6F9?style=flat-square&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-45b8d8?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-46a2f1?style=flat-square&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/-React-2088FF?style=flat-square&logo=react&logoColor=white)
+### Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-8DD6F9?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-5849BE?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-430098?style=flat-square&logo=html5&logoColor=white)
-![Node JS](https://img.shields.io/badge/-Nodejs-B7178C?style=flat-square&logo=Node.js&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-E10098?style=flat-square&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-ed4e93?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC6699?style=flat-square&logo=html5&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-e04a63?style=flat-square&logo=html5&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c71835?style=flat-square&logo=html5&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-db1d04?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-db9404?style=flat-square&logo=webpack&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-f0e00a?style=flat-square&logo=docker&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-a2c904?style=flat-square&logo=insomnia&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Capacitor](https://img.shields.io/badge/-Capacitor-1195F5?style=flat-square&logo=capacitor&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Cloud Functions](https://img.shields.io/badge/-Google%20Cloud%20Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![SWR](https://img.shields.io/badge/-SWR-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
 
 ### Strengths and Skills
-- Leadership: I am able to lead, organize and motivate others.
-- Self-starter: I am able to acquire new knowledge efficiently
-and effectively.
-- Teamwork: I am currently working on the final group project
-of Soy Henry bootcamp.
-- Time management: I complete my responsibilities in a timely
-manner.
-- Proactivity: I am an organized person and like to act quickly
-to avoid future complications.
-- Communication and active listening: I have the ability to
-receive and give feedback assertively.
-- SCRUM Methodology: I am currently putting this skill into
-practice in the final group project of Soy Henry bootcamp.
-- Problem solving and conflict resolution.
-- Adaptation to change.
+- Leadership: I can lead, organize, and motivate teams to achieve their goals.
+- Self-starter: I am proficient at acquiring new knowledge efficiently and effectively.
+- Teamwork: I thrive in collaborative environments and have successfully worked on multiple team projects.
+- Time Management: I manage my responsibilities effectively, ensuring timely delivery of tasks.
+- Proactivity: I am highly organized and quick to act to prevent future issues.
+- Communication and Active Listening: I excel at giving and receiving feedback constructively.
+- SCRUM Methodology: I have applied SCRUM in team projects to ensure smooth and organized development processes.
+- Problem Solving and Conflict Resolution: I approach challenges with a solution-oriented mindset.
+- Adaptability: I am flexible and thrive in dynamic, fast-paced environments.
 
 ### Motivation
-I have numerous personal goals that motivate me every day to improve. But my main source of motivation is my habit of becoming better at what I set out to do every day. When I complete a job, I not only make sure that it is delivered on time, but also in the best possible way.
+I am driven by a strong desire to continually improve and achieve personal and professional growth. My primary motivation is to excel in every task I undertake, ensuring that it is not only completed on time but also to the highest standard.
 
 ### Goals
-My main objective is to get a job where I can strengthen and improve the knowledge I currently have, as well as acquire new knowledge and skills that will benefit my work and personal development.
+My main objective is to secure a position where I can strengthen and expand my current knowledge while acquiring new skills that will enhance both my professional and personal development.
 
 ---
 
